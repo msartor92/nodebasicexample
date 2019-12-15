@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/msartor92/nodebasicexample/issues"
   },
-  "homepage": "https://github.com/msartor92/nodebasicexample#readme"
+  "homepage": "https://github.com/msartor92/nodebasicexample#readme",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
 }
